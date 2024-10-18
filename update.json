@@ -1,6 +1,10 @@
 {
   "status" : "unavailable",
-  "recipientContact":"787535655",
+  "recipientContact":[
+    "787535655",
+    "766250508",
+    "763633294"
+  ]
   "isSent":false,
   "message":"Successful json message Fetch...Hurray!!!"
 }
