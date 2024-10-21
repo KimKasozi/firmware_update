@@ -1,10 +1,21 @@
 {
-  "status" : "unavailable",
-  "recipientContact":[
-    "787535655",
-    "766250508",
-    "763633294"
-  ],
-  "isSent":false,
-  "message":"Hello there, Just doing a simple Test. Thanks."
+  "SMSmessages": [
+      {
+      	"messageID":"785727208_A",
+      	"contents": "Hello Araknerd,This is a test Number 1!!",
+      	"recipients": "784038712, 765328876, 704992287, 75522865"
+      },
+      {
+      	"messageID":"785727208_B",
+      	"contents": "Hello Araknerd,This is a test Number 2!!",
+      	"recipients": "745336672, 765522671, 7882092312"
+      }
+   ],
+   "AudioMessages": [
+      {
+      	"audioID": "A_785727208",
+      	"contents": "https://www.telson_audio.com//dkjfkdfj12RE.mp3",
+      	"recipients": "766334562, 743552261, 788997712"
+      }
+   ]
 }
