@@ -1,8 +1,8 @@
 {
   "SMSmessages": [
       {
-      	"messageID":"785727232_ABA",
-      	"contents": "Hello Araknerd,This is a test message. MessageNumber 6",
+      	"messageID":"unique_1A",
+      	"contents": "Hello there!! Still doing some tests...TEST 1",
       	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
       },
       {
@@ -16,23 +16,23 @@
       	"recipients": "784320381, 784320381, 784320381, 784320381, 784320381, 784320381, 784320381, 784320381, 784320381, 784320381"
       },
       {
-        	"messageID":"785727232_ZYA",
-        	"contents": "Hello Araknerd,This is a test message. MessageNumber 7",
+        	"messageID":"unique_2",
+        	"contents": "Hello there!! Still doing some tests...TEST 2",
         	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
         },
         {
-        	"messageID":"785727232_ABA",
-        	"contents": "Hello Araknerd,This is a test message. MessageNumber 8",
+        	"messageID":"unique_3",
+        	"contents": "Hello there!! Still doing some tests...TEST 3",
         	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
         },
         {
-          	"messageID":"785727232_ACA",
-          	"contents": "Hello Araknerd,This is a test message. MessageNumber 9",
+          	"messageID":"unique_4",
+          	"contents": "Hello there!! Still doing some tests...TEST 4",
           	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
           },
           {
-        	"messageID":"785727232_ADA",
-        	"contents": "Hello Araknerd,This is a test message. MessageNumber 10",
+        	"messageID":"unique_5",
+        	"contents": "Hello there!! Still doing some tests...TEST 5",
         	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
         }
    ],
