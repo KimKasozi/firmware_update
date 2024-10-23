@@ -30,6 +30,12 @@
         	"messageID":"unique_XY123",
         	"contents": "Hello there!! Still doing some tests...TEST 16....Day 2",
         	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
+        },
+     
+          {
+        	"messageID":"micheal22",
+        	"contents": "Hi there Michy....Am testing sending messages with 2 GSMS.",
+        	"recipients": "787535655, 787535655, 787535655, 787535655, 787535655, 787535655"
         }
    ],
    "AudioMessages": [
