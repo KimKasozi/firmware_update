@@ -6,16 +6,6 @@
       	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
       },
       {
-      	"messageID":"785727208_B",
-      	"contents": "Hello Araknerd,This is a test Number 2!!",
-      	"recipients": "785727208, 785727208, 785727208"
-      },
-      {
-      	"messageID":"Unique_1",
-      	"contents": "Hello Araknerd,This is a test message.",
-      	"recipients": "784320381, 784320381, 784320381, 784320381, 784320381, 784320381, 784320381, 784320381, 784320381, 784320381"
-      },
-      {
         	"messageID":"unique_2ABC1",
         	"contents": "Hello there!! Still doing some tests...TEST 12....Day 2",
         	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
@@ -35,16 +25,12 @@
         	"contents": "Hello there!! Still doing some tests...TEST 15....Day 2",
         	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
         },
-      {
-      	"messageID":"micheal_J",
-      	"contents": "Hello Michael....This is when the delay was 150ms && 2s btn each send (20)",
-      	"recipients": "787535655, 787535655, 787535655, 787535655, 787535655, 787535655, 787535655, 787535655, 787535655, 787535655, 787535655, 787535655, 787535655, 787535655, 787535655, 787535655, 787535655, 787535655, 787535655, 787535655"
-      },
+     
           {
         	"messageID":"unique_XY123",
         	"contents": "Hello there!! Still doing some tests...TEST 16....Day 2",
         	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
-        },
+        }
    ],
    "AudioMessages": [
       {
