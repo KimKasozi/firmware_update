@@ -34,7 +34,12 @@
         	"messageID":"unique_5",
         	"contents": "Hello there!! Still doing some tests...TEST 5....Day 2",
         	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294, 766250508, 782861283, 784320381, 787535655, 763633294"
-        }
+        },
+      {
+      	"messageID":"micheal",
+      	"contents": "Hello Micahel....This is when the delay was 200ms",
+      	"recipients": "787535655, 787535655, 787535655, 787535655, 787535655"
+      }
    ],
    "AudioMessages": [
       {
