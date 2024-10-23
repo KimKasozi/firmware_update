@@ -1,8 +1,8 @@
 {
   "SMSmessages": [
       {
-      	"messageID":"unique_1AB2",
-      	"contents": "Hello there!! Still doing some tests...TEST 6....Day 2",
+      	"messageID":"unique_1ABX3",
+      	"contents": "Hello there!! Still doing some tests...TEST 11....Day 2",
       	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
       },
       {
@@ -16,23 +16,23 @@
       	"recipients": "784320381, 784320381, 784320381, 784320381, 784320381, 784320381, 784320381, 784320381, 784320381, 784320381"
       },
       {
-        	"messageID":"unique_2ABC",
-        	"contents": "Hello there!! Still doing some tests...TEST 7....Day 2",
+        	"messageID":"unique_2ABC1",
+        	"contents": "Hello there!! Still doing some tests...TEST 12....Day 2",
         	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
         },
         {
-        	"messageID":"unique_3ABC",
-        	"contents": "Hello there!! Still doing some tests...TEST 8....Day 2",
+        	"messageID":"unique_3ABC1",
+        	"contents": "Hello there!! Still doing some tests...TEST 13....Day 2",
         	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
         },
         {
-          	"messageID":"unique_4ABC",
-          	"contents": "Hello there!! Still doing some tests...TEST 9....Day 2",
+          	"messageID":"unique_4ABCX1",
+          	"contents": "Hello there!! Still doing some tests...TEST 14....Day 2",
           	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
           },
           {
-        	"messageID":"unique_5ABCD",
-        	"contents": "Hello there!! Still doing some tests...TEST 10....Day 2",
+        	"messageID":"unique_5ABCXD",
+        	"contents": "Hello there!! Still doing some tests...TEST 15....Day 2",
         	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
         },
       {
