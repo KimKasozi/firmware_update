@@ -7,32 +7,32 @@
       },
      
           {
-        	"messageID":"DAY3_01A",
-        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST1 DAY 3",
+        	"messageID":"DAY3_test6",
+        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST6 DAY 3",
         	"recipients": "787535655, 703612046, 704722190, 782861283, 766250508, 756693911, 784320381, 763633294"
         },
      
           {
-        	"messageID":"DAY3_01B",
-        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST2 DAY 3",
+        	"messageID":"DAY3_test7",
+        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST7 DAY 3",
         	"recipients": "787535655, 703612046, 704722190, 782861283, 766250508, 756693911, 784320381, 763633294"
         },
      
           {
-        	"messageID":"DAY3_01C",
-        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST3 DAY 3",
+        	"messageID":"DAY3_test8",
+        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST8 DAY 3",
         	"recipients": "787535655, 703612046, 704722190, 782861283, 766250508, 756693911, 784320381, 763633294"
         },
      
           {
-        	"messageID":"DAY3_01D",
-        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST4 DAY 3",
+        	"messageID":"DAY3_test9",
+        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST9 DAY 3",
         	"recipients": "787535655, 703612046, 704722190, 782861283, 766250508, 756693911, 784320381, 763633294"
         },
      
           {
-        	"messageID":"DAY3_01E",
-        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST5 DAY 3)",
+        	"messageID":"DAY3_test10",
+        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST10 DAY 3)",
         	"recipients": "787535655, 703612046, 704722190, 782861283, 766250508, 756693911, 784320381, 763633294"
         },
      
