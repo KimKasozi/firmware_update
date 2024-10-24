@@ -33,9 +33,9 @@
         },
      
           {
-        	"messageID":"TwinGSM_Test1G",
+        	"messageID":"TwinGSM_Test1h",
         	"contents": "Hi there....Am testing sending messages with 2 GSMS.(Airtel to Airtel, MTN to MTN)",
-        	"recipients": "787535655, 703612046, 787535655, 703612046, 703612046, 787535655"
+        	"recipients": "787535655, 703612046, 704722190, 782861283, 766250508, 756693911, 784320381, 787535655, 763633294"
         }
    ],
    "AudioMessages": [
