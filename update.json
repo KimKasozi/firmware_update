@@ -5,36 +5,34 @@
       	"contents": "Hello there!! Still doing some tests...TEST 11....Day 2",
       	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
       },
-      {
-        	"messageID":"unique_2ABC1",
-        	"contents": "Hello there!! Still doing some tests...TEST 12....Day 2",
-        	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
-        },
-        {
-        	"messageID":"unique_3ABC1",
-        	"contents": "Hello there!! Still doing some tests...TEST 13....Day 2",
-        	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
-        },
-        {
-          	"messageID":"unique_4ABCX1",
-          	"contents": "Hello there!! Still doing some tests...TEST 14....Day 2",
-          	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
-          },
+     
           {
-        	"messageID":"unique_5ABCXD",
-        	"contents": "Hello there!! Still doing some tests...TEST 15....Day 2",
-        	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
+        	"messageID":"TwinGSM_Test1I",
+        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST1 DAY 3",
+        	"recipients": "787535655, 703612046, 704722190, 782861283, 766250508, 756693911, 784320381, 787535655, 763633294"
         },
      
           {
-        	"messageID":"unique_XY123",
-        	"contents": "Hello there!! Still doing some tests...TEST 16....Day 2",
-        	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
+        	"messageID":"TwinGSM_Test2A",
+        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST2 DAY 3",
+        	"recipients": "787535655, 703612046, 704722190, 782861283, 766250508, 756693911, 784320381, 787535655, 763633294"
         },
      
           {
-        	"messageID":"TwinGSM_Test1h",
-        	"contents": "Hi there....Am testing sending messages with 2 GSMS.(Airtel to Airtel, MTN to MTN)",
+        	"messageID":"TwinGSM_Test3A",
+        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST3 DAY 3",
+        	"recipients": "787535655, 703612046, 704722190, 782861283, 766250508, 756693911, 784320381, 787535655, 763633294"
+        },
+     
+          {
+        	"messageID":"TwinGSM_Test4A",
+        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST4 DAY 3",
+        	"recipients": "787535655, 703612046, 704722190, 782861283, 766250508, 756693911, 784320381, 787535655, 763633294"
+        },
+     
+          {
+        	"messageID":"TwinGSM_Test5A",
+        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST5 DAY 3)",
         	"recipients": "787535655, 703612046, 704722190, 782861283, 766250508, 756693911, 784320381, 787535655, 763633294"
         }
    ],
