@@ -33,7 +33,7 @@
         },
      
           {
-        	"messageID":"TwinGSM_Test1D",
+        	"messageID":"TwinGSM_Test1E",
         	"contents": "Hi there....Am testing sending messages with 2 GSMS.(Airtel to Airtel, MTN to MTN)",
         	"recipients": "787535655, 703612046, 787535655, 703612046, 703612046, 787535655"
         }
