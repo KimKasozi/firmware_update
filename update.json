@@ -34,6 +34,18 @@
         	"messageID":"unique_1ABX3",
         	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST5 DAY 3)",
         	"recipients": "787535655, 703612046, 704722190, 782861283, 766250508, 756693911, 784320381, 787535655, 763633294"
+        },
+     
+          {
+        	"messageID":"TwinGSM_Test0A",
+        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST5 DAY 3)",
+        	"recipients": "787535655, 703612046"
+        },
+     
+          {
+        	"messageID":"TwinGSM_Test0B",
+        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST5 DAY 3)",
+        	"recipients": "787535655, 703612046"
         }
    ],
    "AudioMessages": [
