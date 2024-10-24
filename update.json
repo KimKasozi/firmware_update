@@ -19,9 +19,15 @@
         },
      
           {
-        	"messageID":"DAY3_testX",
-        	"contents": "Hi Andrew...This is how it should Work. (MTN to MTN and Airtel to Airtel)",
-        	"recipients": "703612046, 704722190"
+        	"messageID":"DAY3_testX_1",
+        	"contents": "Msg: 1.. This is how it should Work. (MTN to MTN and Airtel to Airtel)",
+        	"recipients": "787535655, 703612046, 787535655, 703612046, 787535655, 703612046"
+        },
+     
+          {
+        	"messageID":"DAY3_testX_2",
+        	"contents": "Msg: 2.. This is how it should Work. (MTN to MTN and Airtel to Airtel)",
+        	"recipients": "787535655, 703612046, 787535655, 703612046, 787535655, 703612046"
         },
      
           {
