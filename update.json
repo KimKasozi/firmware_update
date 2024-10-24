@@ -37,19 +37,19 @@
         },
      
           {
-        	"messageID":"TwinGSM_Test0M",
+        	"messageID":"TwinGSM_Test0V",
         	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST 1 DAY 3 (Small-Scale)",
         	"recipients": "787535655, 703612046"
         },
      
           {
-        	"messageID":"TwinGSM_Test0P",
+        	"messageID":"TwinGSM_Test0U",
         	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST2 DAY 3 (Small-Scale)",
         	"recipients": "787535655, 703612046"
         },
      
           {
-        	"messageID":"TwinGSM_Test0X",
+        	"messageID":"TwinGSM_Test0T",
         	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST2 DAY 3 (Small-Scale)",
         	"recipients": "787535655, 703612046"
         }
