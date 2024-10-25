@@ -1,9 +1,9 @@
 {
   "SMSmessages": [
       {
-      	"messageID":"unique_1ABX3",
-      	"contents": "Hello there!! Still doing some tests...TEST 11....Day 2",
-      	"recipients": "766250508, 782861283, 784320381, 787535655, 763633294"
+      	"messageID":"Andrew_test1",
+      	"contents": "Hello Andrew. You shud get 3 MTN texts and 1 Airtel. But the 1st MTN and 1st Airtel arrive same time.",
+      	"recipients": "704722190, 782861283, 782861283, 782861283"
       },
      
           {
