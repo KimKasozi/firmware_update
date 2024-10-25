@@ -7,9 +7,21 @@
       },
      
           {
-        	"messageID":"DAY4_test1c",
-        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST1 DAY 4",
+        	"messageID":"DAY4_test1f",
+        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST2 DAY 4",
         	"recipients": "703612046, 784320381, 703612046, 703612046, 703612046, 703612046"
+        }
+     
+          {
+        	"messageID":"DAY4_test1e",
+        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST3 DAY 4",
+        	"recipients": "703612046, 784320381, 703612046, 703612046, 703612046, 703612046"
+        },
+     
+          {
+        	"messageID":"DAY4_test1c",
+        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST2 DAY 4",
+        	"recipients": "703612046, 784320381, 703612046, 703612046, 703612046, 703612046, 759697106, 759697106"
         },
      
           {
