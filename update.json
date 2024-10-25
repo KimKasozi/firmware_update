@@ -1,9 +1,9 @@
 {
   "SMSmessages": [
       {
-      	"messageID":"Andrew_test1",
-      	"contents": "Hello Andrew. You shud get 3 MTN texts and 1 Airtel. But the 1st MTN and 1st Airtel arrive same time.",
-      	"recipients": "704722190, 782861283, 782861283, 782861283"
+      	"messageID":"Andrew_test2",
+      	"contents": "On this one. You shud get 3 Airtel texts and 1 MTN. Still the 1st MTN and 1st Airtel arrive same time.",
+      	"recipients": "704722190, 782861283, 704722190, 704722190"
       },
      
           {
