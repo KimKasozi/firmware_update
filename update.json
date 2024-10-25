@@ -19,33 +19,33 @@
         },
      
           {
-        	"messageID":"DAY4_test1c",
+        	"messageID":"DAY4_test1AAAA",
+        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST1 DAY 4",
+        	"recipients": "787535655, 703612046, 766250508, 756693911, 784320381, 763633294"
+        },
+     
+          {
+        	"messageID":"DAY4_test2AAAA",
         	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST2 DAY 4",
-        	"recipients": "703612046, 784320381, 703612046, 703612046, 703612046, 703612046, 759697106, 759697106"
+        	"recipients": "787535655, 703612046, 766250508, 756693911, 784320381, 763633294"
         },
      
           {
-        	"messageID":"DAY4_test5B",
+        	"messageID":"DAY4_test3AAA",
+        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST3 DAY 4",
+        	"recipients": "787535655, 703612046, 766250508, 756693911, 784320381, 763633294"
+        },
+     
+          {
+        	"messageID":"DAY4_test4AAAA",
+        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST4 DAY 4",
+        	"recipients": "787535655, 703612046, 766250508, 756693911, 784320381, 763633294"
+        },
+     
+          {
+        	"messageID":"DAY4_test5AAAA",
         	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST5 DAY 4",
-        	"recipients": "703612046, 784320381, 703612046, 703612046, 703612046, 703612046"
-        },
-     
-          {
-        	"messageID":"DAY4_test6B",
-        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST6 DAY 4",
-        	"recipients": "703612046, 784320381, 703612046, 703612046, 703612046, 703612046"
-        },
-     
-          {
-        	"messageID":"DAY3_testX_2",
-        	"contents": "Msg: 2.. This is how it should Work. (MTN to MTN and Airtel to Airtel)",
-        	"recipients": "787535655, 703612046, 787535655, 703612046, 787535655, 703612046"
-        },
-     
-          {
-        	"messageID":"DAY3_test9",
-        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST9 DAY 3",
-        	"recipients": "787535655, 703612046, 704722190, 782861283, 766250508, 756693911, 784320381, 763633294"
+        	"recipients": "787535655, 703612046, 766250508, 756693911, 784320381, 763633294"
         },
      
           {
