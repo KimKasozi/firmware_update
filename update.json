@@ -1,36 +1,6 @@
 {
   "SMSmessages": [
       {
-      	"messageID":"Andrew_test2",
-      	"contents": "On this one. You shud get 3 Airtel texts and 1 MTN. Still the 1st MTN and 1st Airtel arrive same time.",
-      	"recipients": "704722190, 782861283, 704722190, 704722190"
-      },
-     
-          {
-        	"messageID":"DAY4_test1n",
-        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TESTX DAY 4",
-        	"recipients": "703612046, 784320381, 703612046, 703612046, 703612046, 703612046"
-        },
-     
-          {
-        	"messageID":"DAY4_test0kkxvcP",
-        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN.",
-        	"recipients": "703612046, 703612046, 703612046, 703612046, 703612046"
-        },
-     
-          {
-        	"messageID":"DAY4_test1AAAA",
-        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST1 DAY 4",
-        	"recipients": "787535655, 703612046, 766250508, 756693911, 784320381, 763633294"
-        },
-     
-          {
-        	"messageID":"DAY4_test2AAAA",
-        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST2 DAY 4",
-        	"recipients": "787535655, 703612046, 766250508, 756693911, 784320381, 763633294"
-        },
-     
-          {
         	"messageID":"DAY4_test3AAA",
         	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST3 DAY 4",
         	"recipients": "787535655, 703612046, 766250508, 756693911, 784320381, 763633294"
@@ -40,43 +10,6 @@
         	"messageID":"DAY4_test4AAAA",
         	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST4 DAY 4",
         	"recipients": "787535655, 703612046, 766250508, 756693911, 784320381, 763633294"
-        },
-     
-          {
-        	"messageID":"DAY4_test6AAA",
-        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST6 DAY 4",
-        	"recipients": "787535655, 703612046, 766250508, 756693911, 784320381, 763633294"
-        },
-     
-          {
-        	"messageID":"DAY3_test10",
-        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST10 DAY 3)",
-        	"recipients": "787535655, 703612046, 704722190, 782861283, 766250508, 756693911, 784320381, 763633294"
-        },
-     
-          {
-        	"messageID":"TwinGSM_Test0V",
-        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST 1 DAY 3 (Small-Scale)",
-        	"recipients": "787535655, 703612046"
-        },
-     
-          {
-        	"messageID":"TwinGSM_Test0U",
-        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST2 DAY 3 (Small-Scale)",
-        	"recipients": "787535655, 703612046"
-        },
-     
-          {
-        	"messageID":"TwinGSM_Test0T",
-        	"contents": "Hi there..Am testing Airtel to Airtel, MTN to MTN...TEST2 DAY 3 (Small-Scale)",
-        	"recipients": "787535655, 703612046"
         }
-   ],
-   "AudioMessages": [
-      {
-      	"audioID": "A_785727208",
-      	"contents": "https://www.telson_audio.com//dkjfkdfj12RE.mp3",
-      	"recipients": "766334562, 743552261, 788997712"
-      }
    ]
 }
