@@ -1,7 +1,22 @@
 {
   "SMSmessages": [
       {
+        	"messageID":"ID1",
+        	"contents": "Hi there",
+        	"recipients": "787535655, 703612046"
+        },
+        {
         	"messageID":"ID2",
+        	"contents": "Hi there",
+        	"recipients": "787535655, 703612046"
+        },
+        {
+        	"messageID":"ID3",
+        	"contents": "Hi there",
+        	"recipients": "787535655, 703612046"
+        },
+        {
+        	"messageID":"ID4",
         	"contents": "Hi there",
         	"recipients": "787535655, 703612046"
         }
