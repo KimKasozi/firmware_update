@@ -1,22 +1,22 @@
 {
   "SMSmessages": [
       {
-        	"messageID":"ID1",
+        	"messageID":"IDX1",
         	"contents": "Dear Parent, you are invited for your child's Visitation Day at Mengo SS scheduled for the 16th October, 2024. Gates will open at 7:00am to 6:00pm. <Delivered by BulkSMS>",
         	"recipients": "787535655, 703612046"
         },
         {
-        	"messageID":"ID2",
+        	"messageID":"IDx2",
         	"contents": "Hi there",
         	"recipients": "787535655, 703612046"
         },
         {
-        	"messageID":"ID3",
+        	"messageID":"IDx3",
         	"contents": "Hi there",
         	"recipients": "787535655, 703612046"
         },
         {
-        	"messageID":"ID4",
+        	"messageID":"IDx4",
         	"contents": "Hi there",
         	"recipients": "787535655, 703612046"
         }
