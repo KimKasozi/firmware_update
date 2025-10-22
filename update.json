@@ -1,3 +1,8 @@
 {
-  "status": "available"
+    "immaculate_booth1": "1.1.0",
+    "immaculate_booth2": "1.1.0",
+    "immaculate_booth3": "1.1.0",
+    "atlas_booth1": "1.1.0",
+    "Booth_Card_Reader2": "1.1.0",
+    "Booth_Card_Reader1": "1.0.0"
 }
