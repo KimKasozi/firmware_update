@@ -17,6 +17,22 @@
       "smsCount": 1,
       "provider": "MTN",
       "channel": ""
+    },
+    {
+      "messageID": "19465",
+      "messageText": "BuzzTime load of 5,000ugx...",
+      "phoneNumber": "256785727208",
+      "smsCount": 1,
+      "provider": "MTN",
+      "channel": ""
+    },
+    {
+      "messageID": "19466",
+      "messageText": "BuzzTime load of 5,000ugx...",
+      "phoneNumber": "256785727208",
+      "smsCount": 1,
+      "provider": "MTN",
+      "channel": ""
     }
   ]
 }
