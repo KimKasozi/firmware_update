@@ -1,8 +1,14 @@
 {
-    "immaculate_booth1": "1.1.0",
-    "immaculate_booth2": "1.1.0",
-    "immaculate_booth3": "1.1.0",
-    "atlas_booth1": "1.1.0",
-    "Booth_Card_Reader2": "1.1.0",
-    "Booth_Card_Reader1": "1.0.0"
+  "status": "OK",
+  "message": null,
+  "details": [
+    {
+      "messageID": "19463",
+      "messageText": "BuzzTime load of 5,000ugx...",
+      "phoneNumber": "256758679452",
+      "smsCount": 1,
+      "provider": "AIRTEL",
+      "channel": ""
+    }
+  ]
 }
