@@ -9,6 +9,14 @@
       "smsCount": 1,
       "provider": "AIRTEL",
       "channel": ""
+    },
+    {
+      "messageID": "19464",
+      "messageText": "BuzzTime load of 5,000ugx...",
+      "phoneNumber": "256769413480",
+      "smsCount": 1,
+      "provider": "MTN",
+      "channel": ""
     }
   ]
 }
