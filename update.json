@@ -3,25 +3,9 @@
   "message": null,
   "details": [
     {
-      "messageID": "19464",
-      "messageText": "BuzzTime load of 5,000ugx...",
+      "messageID": "19467",
+      "messageText": "This is a test😂👍😁❤️",
       "phoneNumber": "256769413480",
-      "smsCount": 1,
-      "provider": "MTN",
-      "channel": ""
-    },
-    {
-      "messageID": "19465",
-      "messageText": "BuzzTime load of 5,000ugx...",
-      "phoneNumber": "256785727208",
-      "smsCount": 1,
-      "provider": "MTN",
-      "channel": ""
-    },
-    {
-      "messageID": "19466",
-      "messageText": "BuzzTime load of 5,000ugx...",
-      "phoneNumber": "256785727208",
       "smsCount": 1,
       "provider": "MTN",
       "channel": ""
