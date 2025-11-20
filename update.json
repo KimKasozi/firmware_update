@@ -3,7 +3,7 @@
   "message": null,
   "details": [
     {
-      "messageID": "291001",
+      "messageID": "291003",
       "messageText": "This is a test message for testing concurrent Sending of the 2 GSMS.",
       "phoneNumber": "256785727208",
       "smsCount": 1,
@@ -11,7 +11,7 @@
       "channel": ""
     }, 
     {
-      "messageID": "291002",
+      "messageID": "291004",
       "messageText": "This is a test message for testing concurrent Sending of the 2 GSMS.",
       "phoneNumber": "256759697106",
       "smsCount": 1,
