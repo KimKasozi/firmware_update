@@ -1,29 +1,15 @@
-{
-  "SMSmessages": [
-      {
-        	"messageID":"MengoSS_00001C",
-        	"contents": "Dear Parent, you are invited for your child's Visitation Day at Mengo SS scheduled for the 16th October, 2024. Gates will open at 7:00am to 6:00pm. <Delivered by BulkSMS>",
-        	"recipients": "787535655, 703612046"
-        },
-        {
-        	"messageID":"MengoSS_00001D",
-        	"contents": "Dear Parent, Term III will be officially ending on the 02nd Decemeber, 2024 and you are therefore requested to come pick up your child at Mengo SS. Gates will open at 4:00am to 6:00pm. <Delivered by BulkSMS>",
-        	"recipients": "787535655, 703612046"
-        },
-        {
-        	"messageID":"ELITE_00001G",
-        	"contents": "Dear Parent, Term III will be officially ending on the 02nd Decemeber, 2024 and you are therefore requested to come pick up your child at Elite High School. Gates will open at 6:00am to 4:00pm. <Delivered by BulkSMS>",
-        	"recipients": "787535655, 703612046"
-        },
-        {
-        	"messageID":"DEVELOPER_0001C",
-        	"contents": "Your One-Time-Activation (OTA) code is 9650-123. Thanks for choosing Teslon.",
-        	"recipients": "787535655"
-        },
-        {
-        	"messageID":"CLIENT_0001A",
-        	"contents": "Hope this finds you well. You are kindly welcomed to the wedding of Mr. and Mrs. Terry this Sunday at the St. Cathedral Church. RSVP on +256755990089 or +2567755443322",
-        	"recipients": "787535655, 703612046"
-        }
-   ]
+{"status": "OK", "message": null,  "details": [{"messageID": "291003", "messageText": "This is a test message for testing concurrent Sending of the 2 GSMS.",  "phoneNumber": "256785727208",
+      "smsCount": 1,
+      "provider": "MTN",
+      "channel": ""
+    }, 
+    {
+      "messageID": "291004",
+      "messageText": "This is a test message for testing concurrent Sending of the 2 GSMS.",
+      "phoneNumber": "256759697106",
+      "smsCount": 1,
+      "provider": "AIRTEL",
+      "channel": ""
+    }
+  ]
 }
