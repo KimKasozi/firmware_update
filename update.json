@@ -1,6 +1,7 @@
 {
-      "name": "Blessing Acen",
-      "age": 16,
+      "name": "Masiko Gilbert",
+      "age": 56,
       "isMarried": true,
-      "nationality": "Ugandan"
+      "nationality": "Ugandan",
+      "children": ["Masiko Ruth", "Masiko Jane", "Masiko Gilbert Junior", "Masiko Thomas"]
 }
