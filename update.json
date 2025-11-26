@@ -4,8 +4,9 @@
       "isMarried": true,
       "nationality": "Ugandan",
       "children": {
-            firstborn: "Blessing Acen1",
-            secondborn: "Blessing Acen2",
-            lastborn: "Last Blessing Acen"
+            "firstborn": "Blessing Acen1",
+            "secondborn": "Blessing Acen2",
+            "thridborn": "Blessing Acen3",
+            "lastborn": "Last Blessing Acen"
       }
 }
