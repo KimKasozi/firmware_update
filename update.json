@@ -3,5 +3,9 @@
       "age": 56,
       "isMarried": true,
       "nationality": "Ugandan",
-      "children": ["Masiko Ruth", "Masiko Jane", "Masiko Gilbert Junior", "Masiko Thomas"]
+      "children": {
+            firstborn: "Blessing Acen1",
+            secondborn: "Blessing Acen2",
+            lastborn: "Last Blessing Acen"
+      }
 }
